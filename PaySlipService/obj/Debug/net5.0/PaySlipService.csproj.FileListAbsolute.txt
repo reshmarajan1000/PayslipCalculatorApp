@@ -1,0 +1,15 @@
+/Users/RajanRe/Projects/PaySlipApp/PaySlipService/obj/Debug/net5.0/PaySlipService.csprojAssemblyReference.cache
+/Users/RajanRe/Projects/PaySlipApp/PaySlipService/obj/Debug/net5.0/PaySlipService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/RajanRe/Projects/PaySlipApp/PaySlipService/obj/Debug/net5.0/PaySlipService.AssemblyInfoInputs.cache
+/Users/RajanRe/Projects/PaySlipApp/PaySlipService/obj/Debug/net5.0/PaySlipService.AssemblyInfo.cs
+/Users/RajanRe/Projects/PaySlipApp/PaySlipService/obj/Debug/net5.0/PaySlipService.csproj.CoreCompileInputs.cache
+/Users/RajanRe/Projects/PaySlipApp/PaySlipService/bin/Debug/net5.0/PaySlipService.deps.json
+/Users/RajanRe/Projects/PaySlipApp/PaySlipService/bin/Debug/net5.0/PaySlipService.runtimeconfig.json
+/Users/RajanRe/Projects/PaySlipApp/PaySlipService/bin/Debug/net5.0/PaySlipService.runtimeconfig.dev.json
+/Users/RajanRe/Projects/PaySlipApp/PaySlipService/bin/Debug/net5.0/PaySlipService.dll
+/Users/RajanRe/Projects/PaySlipApp/PaySlipService/bin/Debug/net5.0/ref/PaySlipService.dll
+/Users/RajanRe/Projects/PaySlipApp/PaySlipService/bin/Debug/net5.0/PaySlipService.pdb
+/Users/RajanRe/Projects/PaySlipApp/PaySlipService/obj/Debug/net5.0/PaySlipService.dll
+/Users/RajanRe/Projects/PaySlipApp/PaySlipService/obj/Debug/net5.0/ref/PaySlipService.dll
+/Users/RajanRe/Projects/PaySlipApp/PaySlipService/obj/Debug/net5.0/PaySlipService.pdb
+/Users/RajanRe/Projects/PaySlipApp/PaySlipService/obj/Debug/net5.0/PaySlipService.genruntimeconfig.cache
